@@ -1,15 +1,47 @@
-    footer {
-        background-color: #333;
-        color: white;
-        text-align: center;
-        padding: 10px 0;
-    }
-
-    footer a {
-        color: #f1c40f;
-        text-decoration: none;
-    }
-
-    footer a:hover {
-        text-decoration: underline;
-    }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.logo {
+    max-width: 100px; /* Ajuste o tamanho da logo */
+}
+.info {
+    background-color: #eaeaea;
+    padding: 10px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    margin: 20px;
+}
+.left {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+}
+.right {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.right div {
+    margin-bottom: 10px;
+}
+.agendar {
+    flex-grow: 1; /* Faz a div ocupar o espaço restante */
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
