@@ -50,7 +50,7 @@ button {
 }
 
 button:hover {
-    background-color: #ff1493;
+    background-color: #6b0745;
 }
 .agendar {
     flex-grow: 1; 
