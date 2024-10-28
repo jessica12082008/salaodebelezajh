@@ -38,7 +38,7 @@ header {
     margin-bottom: 10px;
 }
 .agendar {
-    flex-grow: 1; /* Faz a div ocupar o espaço restante */
+    flex-grow: 1; 
     text-align: center;
 }
 img {
