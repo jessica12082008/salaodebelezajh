@@ -61,14 +61,14 @@ img {
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #6b0745;
+    color: #6b0745;
     text-align: center;
     padding: 10px 0;
 }
 
 footer a {
-    color: #f1c40f;
+    color: #6b0745;
     text-decoration: none;
 }
 
