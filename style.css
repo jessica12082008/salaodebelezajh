@@ -38,6 +38,12 @@ header {
     margin-bottom: 10px;
 }
 
+.agendar {
+background-color: #6b0745;
+color: #f4f4f4;
+
+}
+
 button {
     background-color: #6b0745; 
     color: white; 
