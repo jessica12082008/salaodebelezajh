@@ -55,7 +55,6 @@ button:hover {
 .agendar {
     flex-grow: 1; 
     text-align: center;
-    background-color: #6b0745; 
     color: white; 
     border: none; 
     padding: 10px 20px; 
